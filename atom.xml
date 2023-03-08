@@ -3,11 +3,11 @@
   <title>wenjunhui</title>
   
   
-  <link href="https://github.com/wenjunhui123/wenjunhui123.github.io/atom.xml" rel="self"/>
+  <link href="https://wenjunhui123.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/wenjunhui123/wenjunhui123.github.io/"/>
+  <link href="https://wenjunhui123.github.io/"/>
   <updated>1985-10-26T08:15:00.000Z</updated>
-  <id>https://github.com/wenjunhui123/wenjunhui123.github.io/</id>
+  <id>https://wenjunhui123.github.io/</id>
   
   <author>
     <name>wenjunhui</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/wenjunhui123/wenjunhui123.github.io/2023/03/07/hello-world/"/>
-    <id>https://github.com/wenjunhui123/wenjunhui123.github.io/2023/03/07/hello-world/</id>
+    <link href="https://wenjunhui123.github.io/2023/03/07/hello-world/"/>
+    <id>https://wenjunhui123.github.io/2023/03/07/hello-world/</id>
     <published>2023-03-07T12:45:29.158Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
